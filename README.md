@@ -42,6 +42,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/199409656-c021c100-857a-4ae4-9752-9ae59465c9c2.png)
 
 ## OUTPUT:
+![Wine drawing _page-0001](https://user-images.githubusercontent.com/120103862/230831136-6925109b-941d-4bba-a2ac-7f2293fd9435.jpg)
 
 ## RESULT:
 Thus, the cut section for solid model is created.
